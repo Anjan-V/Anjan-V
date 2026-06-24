@@ -20,7 +20,7 @@
 
 * Python
 * C++
-* C
+* C (Basic)
 * Java (Basic)
 * JavaScript
 
