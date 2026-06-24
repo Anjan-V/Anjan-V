@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Anjan V 👋
 
 🎓 B.Tech Artificial Intelligence and Data Science Student at Saranathan College of Engineering
